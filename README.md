@@ -1,1 +1,1 @@
-New repository for shell basics
+New repositories for shell basics
